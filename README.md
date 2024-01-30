@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mugunthan-701
-- 👀 I’m interested in learning something
-- 🌱 I’m currently trying to learn github
-- 💞️ I’m looking for someone who can teach me github
+- 👀 I’m interested in learning 
+- 🌱 I’m currently trying to learn Full Stack Web Development
 - 📫 How to reach me mugunthan701@gmail.com
 
 <!---
